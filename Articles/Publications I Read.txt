@@ -1,0 +1,8 @@
+Deepmind RL Lecture 2021 Fall (Berkeley) with Sutton-Barto Book
+https://drive.google.com/file/d/1opzV6t-GJ41Kz76I00DYgRt44iNf7lR7/view?usp=sharing
+
+DDPG
+https://drive.google.com/file/d/1rUHHhK1bZf4aQsrmQgOxUHKx3ns20eQm/view?usp=sharing
+
+DoubleDQN
+https://drive.google.com/file/d/1R8S-DlDp0X6JNEGlU-e82uecQbskQQjZ/view?usp=sharing
